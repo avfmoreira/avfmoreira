@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Amazon AWS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
+)
 <!--
 **avfmoreira/avfmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
