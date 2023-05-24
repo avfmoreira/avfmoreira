@@ -18,7 +18,7 @@ Bagdes from https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-
 
 <!--cards-->
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={avfmoreira})
+(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={avfmoreira})
 
 
 <!--
