@@ -1,3 +1,5 @@
+![r2d2](https://github.com/avfmoreira/avfmoreira/blob/main/header_2d2.jpg)
+
 # André Moreira - @avfmoreira
 
 ## Hi there 👋 
