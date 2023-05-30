@@ -3,7 +3,9 @@
 ## Hi there 👋 
 I'm André, I make money working with justice - but I'm not the Batman. At the last 10 years I have working on Court of Justice of Sao Paulo, but I intend to working with tech at some point in a near future.
 ## What I do
-I am passionate about open source. Recently I find up even if I do not know write the language of a project has being writing I can help the community writing documentation or translate it. So, that is what I am trying to do. Ops, I'm doing, cause there is no try. 
+I am passionate about open source. Recently I find up even if I do not know write the language of a project has being writing I can help the community writing documentation or translate it. So, that is what I am trying to do. Ops, I'm doing, cause there is no try. ![yoda-emoji]([https://github-readme-stats.vercel.app/api/top-langs/?username=avfmoreira](https://github.com/avfmoreira/avfmoreira/blob/main/yoda-emoji.webp)
+
+
 ## My skills
 <!--
 Bagdes from https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-
