@@ -17,8 +17,8 @@ Bagdes from https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🌱 I’m currently learning 
-🐳Docker
-🐧Shellscript
+- 🐳Docker
+- 🐧Shellscript
 <!--cards-->
 ## Quick overview
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avfmoreira)
