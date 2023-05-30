@@ -16,6 +16,9 @@ Bagdes from https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### 🌱 I’m currently learning 
+#### 🐳Docker
+#### 🐧Shellscript
 <!--cards-->
 ## Quick overview
 <img width='300' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avfmoreira" />
