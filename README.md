@@ -1,5 +1,9 @@
-### Hi there 👋
+# André Moreira - @avfmoreira
 
+## Hi there 👋 
+I'm André - I make money working with justice - but I'm not the Batman. I have working at the last 10 years on Court of Jutice of Sao Paulo, but I intend to working with tech at some point in the near future. 
+
+## My skills
 <!--
 Bagdes from https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-
 -->
