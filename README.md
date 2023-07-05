@@ -5,7 +5,7 @@
 ## Hi there 👋 
 I'm André, I make money working with justice - but I'm not the Batman.
 
-Since my young time I am a tech passionate and soon started a job in a small company building front-end to websites, cropping layouts and build pages that should worked well cross-browser, include IE6. 
+Since my young age I am a tech passionate and soon started a job in a small company building front-end to websites, cropping layouts and build pages that should worked well cross-browser, include IE6. 
 
 However, years late my life turn upside down and I came in a law school. Soon I got a public job which is my job currently. I have working as a legal assessor since then. 
 
